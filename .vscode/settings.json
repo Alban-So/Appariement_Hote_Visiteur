@@ -1,0 +1,8 @@
+{
+    "java.project.outputPath": "./bin",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "java.project.referencedLibraries": [
+        "lib/*.jar",
+        "C:/javafx-sdk-24.0.1/lib/*.jar"
+    ]
+}

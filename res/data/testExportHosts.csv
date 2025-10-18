@@ -1,0 +1,11 @@
+id;name;firstName;genre;birthDate;countryOrigin;GUEST_ANIMAL_ALLERGY;HOST_HAS_ANIMAL;GUEST_FOOD;HOST_FOOD;HOBBIES;PAIR_GENDER;HISTORY
+1;Ethan;Seulin;male;15/01/2006;France;no;no;;;videogames,films;female;same
+2;Alice;Dupont;female;22/08/2005;France;yes;no;vegetarian;vegetarian;reading,drawing;male;
+3;Lucas;Moreau;male;10/03/2006;Belgium;no;yes;;nonuts;sports,cinema;female;other
+4;Sophie;Martin;female;05/12/2005;Switzerland;no;no;nonuts;;music,reading;male;same
+5;Nathan;Bernard;male;18/07/2006;Canada;yes;yes;vegetarian,nonuts;vegetarian,nonuts;gaming,coding;female;
+6;Emma;Petit;female;30/11/2005;France;no;no;;;photography,dancing;male;other
+7;Tom;Girard;male;03/09/2006;Luxembourg;no;yes;vegetarian;;football,films;female;same
+8;Chloé;Lemoine;female;14/02/2006;France;yes;no;;nonuts;art,traveling;male;
+9;Hugo;Faure;male;26/06/2005;Belgium;no;no;;;coding,chess;female;other
+10;Léa;Roux;female;11/01/2006;Switzerland;no;yes;vegetarian;vegetarian;volleyball,music;male;same
